@@ -6,4 +6,6 @@ testando acesso novamente
 
 alterando novamente 
 
-nova atualização 
+nova atualização - criando ligação com o repositório remoto
+
+subindo atualização para o github 
